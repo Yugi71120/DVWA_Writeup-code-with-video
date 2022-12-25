@@ -4,20 +4,16 @@
 <h1>Solutions:🎯</h1>
 
 <p><i>
-  
-Burp Suite
 
-Command Injection
+<ul>
+  <li>Burp Suite</li>
+  <li>Command Injection</li>
+  <li>Cross Site Request Forgery(CSRF)</li>
+  <li>File Upload</li>
+  <li>Weak Session</li>
+  <li>XSS DOM</li>
+  <li>XSS Stored</li>
+  <li>XSS Reflected</li>
+</ul>  
 
-Cross Site Request Forgery(CSRF)
-
-File Upload
-
-Weak Session
-
-XSS DOM
-
-XSS Stored
-
-XSS Reflected
 </i></p>

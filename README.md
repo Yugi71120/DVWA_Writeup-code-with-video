@@ -3,7 +3,7 @@
 
 <h1>Solutions:🎯</h1>
 
-<p><i>
+<p><i><b>
 
 <ul>
   <li>Burp Suite</li>
@@ -16,4 +16,4 @@
   <li>XSS Reflected</li>
 </ul>  
 
-</i></p>
+</b></i></p>
